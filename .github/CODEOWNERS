@@ -1,0 +1,11 @@
+
+# DO NOT MODIFY HERE, GENERATED IN git@github.com:galactic-advisors/github-app.git IN apply_branch_protections_rules.py on line 55
+CODEOWNERS @galactic-advisors/devops
+*infra*/ @galactic-advisors/devops
+*Pulumi*yaml @galactic-advisors/devops
+*Dockerfile* @galactic-advisors/devops
+*buildspec* @galactic-advisors/devops
+
+*database*/ @galactic-advisors/data
+*migrations*/ @galactic-advisors/data
+*.sql @galactic-advisors/data

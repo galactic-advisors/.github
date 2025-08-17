@@ -9,3 +9,4 @@ CODEOWNERS @galactic-advisors/devops
 *database*/ @galactic-advisors/data
 *migrations*/ @galactic-advisors/data
 *.sql @galactic-advisors/data
+*.php @galactic-advisors/php

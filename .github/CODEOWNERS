@@ -5,8 +5,3 @@ CODEOWNERS @galactic-advisors/devops
 *Pulumi*yaml @galactic-advisors/devops
 *Dockerfile* @galactic-advisors/devops
 *buildspec* @galactic-advisors/devops
-
-*database*/ @galactic-advisors/data
-*migrations*/ @galactic-advisors/data
-*.sql @galactic-advisors/data
-*.php @galactic-advisors/php

@@ -5,3 +5,4 @@ CODEOWNERS @galactic-advisors/devops
 *Pulumi*yaml @galactic-advisors/devops
 *Dockerfile* @galactic-advisors/devops
 *buildspec* @galactic-advisors/devops
+* @galactic-advisors/developers

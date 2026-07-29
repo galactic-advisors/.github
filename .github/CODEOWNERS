@@ -1,8 +1,11 @@
+# Managed by https://github.com/galactic-advisors/github-app cmd/ruleset_apply. Do not edit by hand.
 
-# DO NOT MODIFY HERE, GENERATED IN git@github.com:galactic-advisors/github-app.git IN apply_branch_protections_rules.py on line 55
-CODEOWNERS @galactic-advisors/devops
+* @galactic-advisors/developers
+
 *infra*/ @galactic-advisors/devops
-*Pulumi*yaml @galactic-advisors/devops
+*Pulumi*.yaml @galactic-advisors/devops
 *Dockerfile* @galactic-advisors/devops
 *buildspec* @galactic-advisors/devops
-* @galactic-advisors/developers
+
+CODEOWNERS @galactic-advisors/devops
+/.github/CODEOWNERS @galactic-advisors/devops
